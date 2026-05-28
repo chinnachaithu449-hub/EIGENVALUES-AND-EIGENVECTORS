@@ -19,9 +19,9 @@ End the program
 ~~~
 #Program to find the eigen values and eigen vectors.
 
-#Developed by: A.Jayachandran
+#Developed by: 
 
-#RegisterNumber:25015034
+#RegisterNumber:212225230087
 
 import os
 
