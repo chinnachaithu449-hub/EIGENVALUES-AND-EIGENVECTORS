@@ -19,7 +19,7 @@ End the program
 ~~~
 #Program to find the eigen values and eigen vectors.
 
-#Developed by: 
+#Developed by: G chaithanya
 
 #RegisterNumber:212225230087
 
